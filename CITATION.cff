@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release and the source datasets documented in the evidence registry."
+title: "Global Pathogen & Health Security Observatory"
+type: software
+version: 3.1.0
+date-released: 2026-08-29
+authors:
+  - family-names: Spiess
+    given-names: Sebastien
+doi: 10.5281/zenodo.22176516
+repository-code: "https://github.com/sebastiengeorgesspiess-source/global-health-security-observatory"
+url: "https://sebastienspiess.ch/health/"
+license: MIT
+
